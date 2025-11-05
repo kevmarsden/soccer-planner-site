@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 ---
 
 **Last updated**
-January 1, 2025
+September 14, 2025
 
 # Privacy Policy for Soccer Planner
 
